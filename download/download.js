@@ -1,1 +1,1 @@
-window.href = '/cluestore.apk'
+window.href = 'cluestore.apk'
