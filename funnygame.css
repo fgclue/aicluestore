@@ -1,2 +1,4 @@
-body { font-family: monospace; /* This */ background-color: #252525ff; /* code */ }
+body { font-family: monospace; /* This */ background-color: #252525ff; /* code */ color: white; }
 button { background-color: #444444; /* is */ border-color: #707070; /* a */font-family: monospace; /* mess. */}
+
+a { color: white; }
